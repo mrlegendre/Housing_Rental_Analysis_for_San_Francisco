@@ -1,6 +1,8 @@
 
-
 # Housing Rental Analysis for San Francisco
+
+![](/Images/SanFran.png)
+
 The objective of this project is to find properties in the San Francisco market that are viable investment opportunities utilizing data visualization skills, including aggregation, interactive visualizations, and geospatial analysis.
 The "san_francisco_housing.ipynb" file is a Jupyter notebook file that contains analysis of the housing rental market data for San Francisco.
 
@@ -31,6 +33,8 @@ For the Anza Vista neighborhood, is the average sale price per square foot for 2
 # PART 4 -Build an Interactive Neighborhood Map
 Which neighborhood has the highest gross rent, and which has the highest sale price per square foot?
 * The neighbourhood with the highest gross rent was WESTWOOD PARK, and with the highest sale price per square foot was UNION SQUARE DISTRICT
+
+![](/Images/SanFranciso_SQ-ft_and_Gross_rent_mapbox_plot.png)
 
 # DATA STORY
 How does the trend in rental income growth compare to the trend in sales prices? 
