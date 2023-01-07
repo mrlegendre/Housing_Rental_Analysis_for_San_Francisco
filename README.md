@@ -1,8 +1,12 @@
-# Module-6
-homework module 6 - San Francisco housing - PyViz
 
- # Housing Rental Analysis for San Francisco
- In this challenge, utilizing data visualization skills, including aggregation, interactive visualizations, and geospatial analysis, to find properties in the San Francisco market that are viable investment opportunities.
+
+# Housing Rental Analysis for San Francisco
+The objective of this project is to find properties in the San Francisco market that are viable investment opportunities utilizing data visualization skills, including aggregation, interactive visualizations, and geospatial analysis.
+The "san_francisco_housing.ipynb" file is a Jupyter notebook file that contains analysis of the housing rental market data for San Francisco.
+
+The data in the resources folder uses census data of San Francisco from the years 2010-2016, and geo coordinates of neighbourhoods in San Francisco.
+
+A visualization will be created using hvPlot and MAPBOX (an API for all maps given geo coordinates of latitude and longtitude)
 
 # PART 1 Calculate and Plot the Average Sale Prices per Square Foot
 Group the data by year, and then average the results.
